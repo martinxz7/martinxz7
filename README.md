@@ -1,33 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+<h1 align="left">Olá 👋 Como vai?</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiz;I'm+17+years+old;I'm+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizjs&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="left">Me chamo Luiz</h3>
 
+###
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizjs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<h2 align="left">Sobre Mim</h2>
 
+###
 
+<h4 align="left">
+Olá! Sou Luiz, tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento de software.
+Atuo tanto no Front-End quanto no Back-End, desenvolvendo aplicações completas, do layout à lógica do servidor.
+Gosto de criar soluções modernas, eficientes e bem estruturadas, sempre buscando evoluir minhas habilidades e aprender novas tecnologias.
+</h4>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizjs&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Luiz stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizjs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+###
+
+<h2 align="left">Experiência</h2>
+
+###
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ununtu-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luizjs}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
